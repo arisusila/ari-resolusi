@@ -1,6 +1,7 @@
 belajar framework php
   - Framework javascript
   -node js
+  -menambah fitur javascript
 belajar phyton
 belajar ajax
 belajar json
